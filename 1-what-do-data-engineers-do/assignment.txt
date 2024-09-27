@@ -1,0 +1,5 @@
+The question: Imagine that you are hired to enable data analytics; where would you start? How would you go about gathering requirements? Hint: Think backward from what the business may need.
+
+My answer: I think I would start by asking business people like product owner and managers a bunch of questions. The most importan one would be what metrics business people want to track. Say it is an e-commerce platform like Amazon. What are the most important  things there?
+Is it how customers behave when going arounf the website? Or is it what customers want to buy together? Is it retention metrics like customers buying the similar things again and again? How do customers review the product they bought? Ideally, business need live data to build
+dashboards to track metrics like how sales are going or historic data to train data science models to predict patterns beforehand to avoid product are here, but are not sold or otherwise not enough product in warehouse to provide customers.
